@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_input_city">Please Input City</string>
+    <string name="temperature">temperature</string>
+    <string name="conidtion">condition</string>
+    <string name="city">City Name</string>
+    <string name="confirm">Search</string>
+</resources>
